@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**Serizao/Serizao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## Achievements
+
+<details>
+  <summary>2025</summary>
+  
+  * [CVE-2025-25252](https://nvd.nist.gov/vuln/detail/CVE-2025-25252) - SSLVPN SAML session reuse on [Fortinet](https://fortiguard.fortinet.com/psirt/FG-IR-24-487)
+  * [CVE-2024-42925](https://nvd.nist.gov/vuln/detail/CVE-2024-42925) - Arbitrary file reading and directory listing on TP-Link with [Chackal](https://x.com/chackal__)
+  * 4th on the [Le Hack event bug bounty](https://event.yeswehack.com/events/lehack-2025)
+</details>
+
+<details>
+  <summary>2024</summary>
+  
+  * [CVE-2024-42925](https://nvd.nist.gov/vuln/detail/cve-2024-42925)- SSLVPN SAML session reuse on [Fortinet](https://fortiguard.fortinet.com/psirt/FG-IR-24-487)
+</details>
+<details>
+  <summary>2021</summary>
+  
+  * All of fame on [Atos](https://atos.net/en/lp/security-hall-of-fame)
+
+</details>
+<details>
+  <summary>2020</summary>
+  
+  * [CVE-2020-25070](https://nvd.nist.gov/vuln/detail/CVE-2020-25070) - Cross-Site Request Forgery in [USVN](http://www.usvn.info/news.html) with [Jomar](https://twitter.com/J0_mart)
+  * [CVE-2020-25069](https://nvd.nist.gov/vuln/detail/CVE-2020-25069) - Remote Code Execution in [USVN](http://www.usvn.info/news.html) with [Jomar](https://twitter.com/J0_mart)
+  * [CVE-2020-25069](https://nvd.nist.gov/vuln/detail/CVE-2020-11997) - Information disclosure on [Guacamole](https://guacamole.apache.org/security/#fixed-in-apache-guacamole-130)
+  * Hall of thanks on [Wartsila compagny](https://www.wartsila.com/contact/report-vulnerability/hall-of-thanks) 
+
+</details>
