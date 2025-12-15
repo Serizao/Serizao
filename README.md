@@ -11,7 +11,6 @@
   <summary>2025</summary>
   
   * [CVE-2025-25252](https://nvd.nist.gov/vuln/detail/CVE-2025-25252) - SSLVPN SAML session reuse on [Fortinet](https://fortiguard.fortinet.com/psirt/FG-IR-24-487)
-  * [CVE-2024-42925](https://nvd.nist.gov/vuln/detail/CVE-2024-42925) - Arbitrary file reading and directory listing on TP-Link with [Chackal](https://x.com/chackal__)
   * 4th on the [Le Hack event bug bounty](https://event.yeswehack.com/events/lehack-2025)
 </details>
 
@@ -19,6 +18,7 @@
   <summary>2024</summary>
   
   * [CVE-2024-42925](https://nvd.nist.gov/vuln/detail/cve-2024-42925)- SSLVPN SAML session reuse on [Fortinet](https://fortiguard.fortinet.com/psirt/FG-IR-24-487)
+  * [CVE-2024-42925](https://nvd.nist.gov/vuln/detail/CVE-2024-42925) - Arbitrary file reading and directory listing on TP-Link with [Chackal](https://x.com/chackal__)
 </details>
 <details>
   <summary>2021</summary>
