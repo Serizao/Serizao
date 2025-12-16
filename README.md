@@ -4,7 +4,11 @@
 
 > Offensive Security · Bug Bounty · Red Team
 
+## Tools
 
+* Kerberos extraction [tool](https://github.com/BZHunt-org/Kerbegoast)
+* Impersonation [tool](https://github.com/Serizao/impergonate)
+* Caido plugin to read and bruteforce ViewState : [caidoViewState](https://github.com/Serizao/caidoViewState)
 
 ## Achievements
 
