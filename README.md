@@ -1,7 +1,8 @@
+# 🔐 Serizao
+![Security](https://img.shields.io/badge/Security-Offensive-red) ![Language](https://img.shields.io/badge/Language-Go-blue) ![Language](https://img.shields.io/badge/Language-PHP-blue) ![Language](https://img.shields.io/badge/Language-JS-yellow)
 
 
-
-
+> Offensive Security · Bug Bounty · Red Team
 
 
 
@@ -37,6 +38,11 @@
   * [CVE-2020-25070](https://nvd.nist.gov/vuln/detail/CVE-2020-25070) - Cross-Site Request Forgery in [USVN](http://www.usvn.info/news.html) with [Jomar](https://twitter.com/J0_mart)
   * [CVE-2020-25069](https://nvd.nist.gov/vuln/detail/CVE-2020-25069) - Remote Code Execution in [USVN](http://www.usvn.info/news.html) with [Jomar](https://twitter.com/J0_mart)
   * [CVE-2020-25069](https://nvd.nist.gov/vuln/detail/CVE-2020-11997) - Information disclosure on [Guacamole](https://guacamole.apache.org/security/#fixed-in-apache-guacamole-130)
-  * Hall of thanks on [Wartsila compagny](https://www.wartsila.com/contact/report-vulnerability/hall-of-thanks) 
+  * Hall of thanks on [Wartsila compagny](https://www.wartsila.com/contact/report-vulnerability/hall-of-thanks)
+  * * [9th](https://yeswehack.com/ranking?year=2020) on year ranking on Yes We Hack
 
+</details>
+  <summary>2019</summary>
+  
+  * [6th](https://yeswehack.com/ranking?year=2019) on year ranking on Yes We Hack
 </details>
