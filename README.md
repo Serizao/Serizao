@@ -1,8 +1,15 @@
 # 🔐 Serizao
-![Security](https://img.shields.io/badge/Security-Offensive-red) ![Language](https://img.shields.io/badge/Language-Go-blue) ![Language](https://img.shields.io/badge/Language-PHP-blue) ![Language](https://img.shields.io/badge/Language-JS-yellow)
 
 
-> Offensive Security · Bug Bounty · Red Team
+
+<h4 align="center">
+Offensive Security · Bug Bounty · Red Team
+</h4>
+
+<hr>
+<p align="center">
+ <img src="https://img.shields.io/badge/Security-Offensive-red"> <img src="https://img.shields.io/badge/Language-Go-blue"> <img src="https://img.shields.io/badge/Language-PHP-blue"> <img src="https://img.shields.io/badge/Language-JS-yellow">
+</p>
 
 ## Tools
 
