@@ -42,6 +42,7 @@
   * * [9th](https://yeswehack.com/ranking?year=2020) on year ranking on Yes We Hack
 
 </details>
+<details>
   <summary>2019</summary>
   
   * [6th](https://yeswehack.com/ranking?year=2019) on year ranking on Yes We Hack
