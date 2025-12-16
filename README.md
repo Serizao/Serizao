@@ -18,10 +18,12 @@ Offensive Security · Bug Bounty · Red Team
 * Caido plugin to read and bruteforce ViewState : [caidoViewState](https://github.com/Serizao/caidoViewState)
 * [PwnDoc-Ng](https://github.com/pwndoc-ng/pwndoc-ng) maintainer
 
-
+<br>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Serizao&theme=merko&layout=compact&hide_border=true" />
 </p>
+<br>
 
 ## Achievements
 
