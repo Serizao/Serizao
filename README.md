@@ -21,6 +21,12 @@
   * [CVE-2024-42925](https://nvd.nist.gov/vuln/detail/CVE-2024-42925) - Arbitrary file reading and directory listing on TP-Link with [Chackal](https://x.com/chackal__)
 </details>
 <details>
+  <summary>2022</summary>
+  
+  * [Hacker One World Cup](https://hackerone.com/serizao/badges?type=user) Champion with Bordeaux Team
+
+</details>
+<details>
   <summary>2021</summary>
   
   * All of fame on [Atos](https://atos.net/en/lp/security-hall-of-fame)
