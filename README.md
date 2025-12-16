@@ -17,7 +17,6 @@
 <details>
   <summary>2024</summary>
   
-  * [CVE-2024-42925](https://nvd.nist.gov/vuln/detail/cve-2024-42925)- SSLVPN SAML session reuse on [Fortinet](https://fortiguard.fortinet.com/psirt/FG-IR-24-487)
   * [CVE-2024-42925](https://nvd.nist.gov/vuln/detail/CVE-2024-42925) - Arbitrary file reading and directory listing on TP-Link with [Chackal](https://x.com/chackal__)
 </details>
 <details>
