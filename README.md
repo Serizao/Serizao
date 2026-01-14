@@ -31,6 +31,7 @@ Offensive Security · Bug Bounty · Red Team
   <summary>2025</summary>
   
   * [CVE-2025-25252](https://nvd.nist.gov/vuln/detail/CVE-2025-25252) - SSLVPN SAML session reuse on [Fortinet](https://fortiguard.fortinet.com/psirt/FG-IR-24-487)
+  * [CVE-2025-25252](https://nvd.nist.gov/vuln/detail/CVE-2025-26626) - XSS on [GLPI Inventory Plugin](https://github.com/glpi-project/glpi-inventory-plugin/security/advisories/GHSA-8p38-r7vf-j6jx)
   * 4th on the [Le Hack event bug bounty](https://event.yeswehack.com/events/lehack-2025)
 </details>
 
@@ -56,7 +57,7 @@ Offensive Security · Bug Bounty · Red Team
   
   * [CVE-2020-25070](https://nvd.nist.gov/vuln/detail/CVE-2020-25070) - Cross-Site Request Forgery in [USVN](http://www.usvn.info/news.html) with [Jomar](https://twitter.com/J0_mart)
   * [CVE-2020-25069](https://nvd.nist.gov/vuln/detail/CVE-2020-25069) - Remote Code Execution in [USVN](http://www.usvn.info/news.html) with [Jomar](https://twitter.com/J0_mart)
-  * [CVE-2020-25069](https://nvd.nist.gov/vuln/detail/CVE-2020-11997) - Information disclosure on [Guacamole](https://guacamole.apache.org/security/#fixed-in-apache-guacamole-130)
+  * [CVE-2020-11997](https://nvd.nist.gov/vuln/detail/CVE-2020-11997) - Information disclosure on [Guacamole](https://guacamole.apache.org/security/#fixed-in-apache-guacamole-130)
   * Hall of thanks on [Wartsila compagny](https://www.wartsila.com/contact/report-vulnerability/hall-of-thanks)
   * [9th](https://yeswehack.com/ranking?year=2020) on year ranking on Yes We Hack
 
