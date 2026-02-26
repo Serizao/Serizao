@@ -21,7 +21,8 @@ Offensive Security · Bug Bounty · Red Team
 <br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serizao&theme=merko&layout=compact&hide_border=true" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=Serizao&theme=merko&layout=compact&hide_border=true" /> -->
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serizao&theme=github_dark" />
 </p>
 <br>
 
