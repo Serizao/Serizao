@@ -31,7 +31,7 @@ Offensive Security · Bug Bounty · Red Team
   <summary>2025</summary>
   
   * [CVE-2025-25252](https://nvd.nist.gov/vuln/detail/CVE-2025-25252) - SSLVPN SAML session reuse on [Fortinet](https://fortiguard.fortinet.com/psirt/FG-IR-24-487)
-  * [CVE-2025-25252](https://nvd.nist.gov/vuln/detail/CVE-2025-26626) - XSS on [GLPI Inventory Plugin](https://github.com/glpi-project/glpi-inventory-plugin/security/advisories/GHSA-8p38-r7vf-j6jx)
+  * [CVE-2025-26626](https://nvd.nist.gov/vuln/detail/CVE-2025-26626) - XSS on [GLPI Inventory Plugin](https://github.com/glpi-project/glpi-inventory-plugin/security/advisories/GHSA-8p38-r7vf-j6jx)
   * 4th on the [Le Hack event bug bounty](https://event.yeswehack.com/events/lehack-2025)
 </details>
 
